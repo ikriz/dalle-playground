@@ -31,7 +31,7 @@ Follow these steps in case you'd like to clone and run the DALL-E Playground loc
 
 1. Clone or fork this repository
 2. Create a virtual environment `cd backend && python3 -m venv ENV_NAME`
-3. Run virtual environment `source venv/bin/activate`
+3. Run virtual environment `source ENV_NAME/bin/activate`
 4. Install requirements `pip install -r requirements.txt`
 5. Make sure you have pytorch and its dependencies
    installed _[Installation guide](https://pytorch.org/get-started/locally/)_
